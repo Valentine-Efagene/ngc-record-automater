@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NGC_File", "NGC_File\NGC_File.pyproj", "{DBB7223B-ED47-4C5E-B8FE-B622941CEC79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB7223B-ED47-4C5E-B8FE-B622941CEC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB7223B-ED47-4C5E-B8FE-B622941CEC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {692E1B92-E92F-4ED7-BE98-DB694A73227B}
+	EndGlobalSection
+EndGlobal
